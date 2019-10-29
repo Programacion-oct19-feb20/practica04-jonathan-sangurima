@@ -7,9 +7,8 @@
 nombre = "Jonathan Sangurima"
 edad = 19
 
-# print(nombre + "--" + edad)
-print(nombre)
-print(edad)
+print("%s -- %s" % (nombre, edad))
+
 
 
 
